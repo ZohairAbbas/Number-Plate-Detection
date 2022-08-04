@@ -10,7 +10,7 @@ The dataset used to train [yolov5](https://github.com/ultralytics/yolov5 "yolov5
 
 [Labeled licence plates dataset](https://www.kaggle.com/datasets/achrafkhazri/labeled-licence-plates-dataset "Labeled Licence Plate Dataset")
 
-Used [Roboflow](https://roboflow.com/ "Roboflow") to annote/label our data.
+Used [Roboflow](https://roboflow.com/ "Roboflow") to annotate/label our data.
 
 ## 🛠️ Installation & Usage
 
