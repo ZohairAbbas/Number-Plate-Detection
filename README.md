@@ -1,4 +1,5 @@
 # Number Plate Detection
+This project aims to detect number plate of a vehicle in a image or video and extract the number plate text using Optical Character Recognation(OCR). This system is implemented by using [yolov5](https://github.com/ultralytics/yolov5 "yolov5"), [EasyOCR](https://github.com/JaidedAI/EasyOCR "EasyOCR") and a Custom OCR model. 
 
 ## 📚 Dataset
 The dataset used to train [yolov5](https://github.com/ultralytics/yolov5 "yolov5") dectection :  
@@ -52,6 +53,7 @@ The pipeline in the project is as follows:
 ![images](https://github.com/ZohairAbbas/Number-Plate-Detection/blob/main/data/111.jpeg) 
 
 
+## 🤝 Contributors 
 <a href="https://github.com/ZohairAbbas/Number-Plate-Detection/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ZohairAbbas/Number-Plate-Detection" />
 </a>
