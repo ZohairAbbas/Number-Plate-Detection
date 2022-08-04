@@ -1,7 +1,7 @@
 # Number Plate Detection
 
 ## 📚 Dataset
-The dataset used to train yolov5 dectection :  
+The dataset used to train [yolov5](https://github.com/ultralytics/yolov5 "yolov5") dectection :  
 
 [Pakistan Vehicle Number Plate Dataset](https://github.com/usmanweb/Pakistan-Vehicle-Number-Plate-Dataset "Pakistan Vehicle Number Plate Dataset")
 
@@ -9,7 +9,7 @@ The dataset used to train yolov5 dectection :
 
 [Labeled licence plates dataset](https://www.kaggle.com/datasets/achrafkhazri/labeled-licence-plates-dataset "Labeled Licence Plate Dataset")
 
-
+Used [Roboflow](https://roboflow.com/ "Roboflow") to annote/label our data.
 
 ## 🛠️ Installation & Usage
 
@@ -41,12 +41,20 @@ python -m uvicorn api:app --reload
 
 The pipeline in the project is as follows:  
 
-- Train custom data using yolov5
-- Custom number plate detection using yolov5 and saving plates as cropped images
-- Apply the extracted plate to EasyOCR and Custom OCR
+- Train custom data using [yolov5](https://github.com/ultralytics/yolov5 "yolov5")
+- Custom number plate detection using [yolov5](https://github.com/ultralytics/yolov5 "yolov5") and saving plates as cropped images
+- Apply the extracted plate to [EasyOCR](https://github.com/JaidedAI/EasyOCR "EasyOCR") and Custom OCR
 - Get plates-text in an array format
 - Integeration of FastAPI
 
+## 💎 Results
+
+![images](https://github.com/ZohairAbbas/Number-Plate-Detection/blob/main/data/111.jpeg) 
+
+
+<a href="https://github.com/ZohairAbbas/Number-Plate-Detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZohairAbbas/Number-Plate-Detection" />
+</a>
 
 
 
