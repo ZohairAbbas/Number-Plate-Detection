@@ -52,8 +52,10 @@ The pipeline in the project is as follows:
 
 ![images](https://github.com/ZohairAbbas/Number-Plate-Detection/blob/main/data/111.jpeg) 
 
+![images](https://github.com/ZohairAbbas/Number-Plate-Detection/blob/main/data/112.png) 
 
-## 🤝 Contributors 
+
+## 🤝 Developers 
 <a href="https://github.com/ZohairAbbas/Number-Plate-Detection/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ZohairAbbas/Number-Plate-Detection" />
 </a>
